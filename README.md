@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Main Codes for PANet
-The main logic of this project is shown in *main.py*. Please read this file before using this project.
+Please read this file before using this project. The main logic of this project is shown in *main.py*.
 ## Datasets
 Choose the dataset using `--dataset`. There are four datasets, including `SHHA` for ShanghaiTech Part A, `SHHA` for ShanghaiTech Part B, `QNRF` for UCF-QNRF and `CC50` for UCF-CC-50.
 
@@ -32,7 +32,3 @@ python inference.py --cuda=0 --dataset=QNRF --checkpoint=your_checkpoint_dir/mod
 ```
 
 Actually we output the predictions on the test set in every training epoch.
-=======
-# PANet
-PANet for Crowd Counting
->>>>>>> fe9d2173211d0cf8b2dd9a796d96bcc33b2d579b
