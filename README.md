@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Main Codes for PANet
 The main logic of this project is shown in *main.py*. Please read this file before using this project.
 ## Datasets
@@ -31,3 +32,7 @@ python inference.py --cuda=0 --dataset=QNRF --checkpoint=your_checkpoint_dir/mod
 ```
 
 Actually we output the predictions on the test set in every training epoch.
+=======
+# PANet
+PANet for Crowd Counting
+>>>>>>> fe9d2173211d0cf8b2dd9a796d96bcc33b2d579b
